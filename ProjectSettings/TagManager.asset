@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LogicManager
+  - Empty
+  - GameModifiersManager
+  - SoundControl
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Walls
+  - PlayerBullets
+  - Consumables
+  - Weapons
+  - Enemies
+  - EnemyBullets
+  - ShopItems
+  - PlayerDashing
+  - GameModifiers
+  - ClassSelector
+  - Chest
+  - Boss
+  - BossInvulnerable
+  - GhostBullet
+  - SceneChange
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Megarectangle_back
+    uniqueID: 3814136697
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2097871979
+    locked: 0
+  - name: Floor
+    uniqueID: 1100340957
+    locked: 0
+  - name: On
+    uniqueID: 1510381049
+    locked: 0
+  - name: Standing
+    uniqueID: 3255799635
+    locked: 0
+  - name: Walls
+    uniqueID: 1256072927
+    locked: 0
+  - name: Bullets
+    uniqueID: 925837795
+    locked: 0
+  - name: Hover
+    uniqueID: 3261729333
+    locked: 0
+  - name: Megarectangle_front
+    uniqueID: 3303439927
+    locked: 0
